@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 10, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/Soniya/OneDrive/Desktop/UDYAMIQ/frontend/pages/index.js"],"sourcesContent":["export default function Home() {\r\n  return (\r\n    <div style={{ padding: \"40px\", fontSize: \"24px\" }}>Welcome to UDYAMIQ</div>\r\n  );\r\n}\r\n"],"names":[],"mappings":";;;;;;AAAe,SAAS;IACtB,qBACE,qKAAC;QAAI,OAAO;YAAE,SAAS;YAAQ,UAAU;QAAO;kBAAG;;;;;;AAEvD"}}]
+}

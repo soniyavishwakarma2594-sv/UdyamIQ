@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 16, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/Soniya/OneDrive/Desktop/UDYAMIQ/frontend/pages/index.js"],"sourcesContent":["import Signup from \"./signup\";\r\n\r\nexport default function Home() {\r\n  return <Signup />;\r\n}\r\n"],"names":[],"mappings":";;;;;AAAA;;;AAEe,SAAS;IACtB,qBAAO,qKAAC,mHAAM;;;;;AAChB"}}]
+}

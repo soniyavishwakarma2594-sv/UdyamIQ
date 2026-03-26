@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 4, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/Soniya/OneDrive/Desktop/UDYAMIQ/frontend/pages/my-digital-id.js"],"sourcesContent":["export default function MyDigitalId() {\r\n  return (\r\n    <div className=\"profile-container\">\r\n      <div className=\"banner\"></div>\r\n\r\n      <div className=\"profile-content\">\r\n        <div className=\"avatar\"></div>\r\n        <h2>Rohit Sharma</h2>\r\n        <p>Marketing Manager</p>\r\n      </div>\r\n    </div>\r\n  );\r\n}\r\n"],"names":[],"mappings":";;;;;;AAAe,SAAS;IACtB,qBACE,qKAAC;QAAI,WAAU;;0BACb,qKAAC;gBAAI,WAAU;;;;;;0BAEf,qKAAC;gBAAI,WAAU;;kCACb,qKAAC;wBAAI,WAAU;;;;;;kCACf,qKAAC;kCAAG;;;;;;kCACJ,qKAAC;kCAAE;;;;;;;;;;;;;;;;;;AAIX"}}]
+}
